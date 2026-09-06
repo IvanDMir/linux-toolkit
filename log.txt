@@ -1,0 +1,13 @@
+El espacio disponible es 955G y el espacio usado es 1.6G
+Uso disponible
+date
+El espacio disponible es 955G y el espacio usado es 1.6G
+Uso disponible
+date
+El espacio disponible es 955G y el espacio usado es 1.6G
+Uso disponible
+Sun Sep  6 02:12:08 UTC 2026
+El espacio disponible es 955G y el espacio usado es 1.6G
+Sun Sep  6 02:50:03 UTC 2026 - Uso disponible
+El espacio disponible es 955G y el espacio usado es 1.6G
+Sun Sep  6 02:50:07 UTC 2026 - Uso disponible
